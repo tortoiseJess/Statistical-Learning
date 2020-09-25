@@ -1,3 +1,4 @@
-# Statistical Learning course @UWaterloo
+# Statistical Learning
 
-Implementations of some machine learning models
+@UWaterloo
+Implementations of some machine learning algorithms.
